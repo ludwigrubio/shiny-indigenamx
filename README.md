@@ -1,4 +1,4 @@
-# Shiny Indigena México
+# Shiny - Indigena México
 
 Tablero de control que permite consultar de manera dinámica datos generales de la población en México, haciendo énfasis en la situación histórica de la población indígena.
 
