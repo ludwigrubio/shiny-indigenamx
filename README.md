@@ -29,7 +29,7 @@ Toda la información mostrada proviene de las siguientes fuentes oficiales:
  
  ## Demo
  
- Puede consultar un demo en: https://ludwigrubio.shinyapps.io/shiny-mexico/
+Aquí puede consultar la aplicación: <a target="_blank" href="https://ludwigrubio.shinyapps.io/shiny-mexico/">https://ludwigrubio.shinyapps.io/shiny-mexico/</a>.
  
  
                 
